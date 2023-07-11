@@ -1,4 +1,3 @@
-/* The name of the file was edited */
 #include <iostream>
 #include <vector>
 
